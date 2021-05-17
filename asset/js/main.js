@@ -7,5 +7,6 @@ const app = new Vue({
     el: '#app',
     data: {
         message: 'Il framework di VueJS ti da il benvenuto!',
+        image: './asset/img/1.jpeg'
     }
 })
